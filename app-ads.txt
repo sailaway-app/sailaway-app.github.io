@@ -171,3 +171,6 @@ rubiconproject.com, 22884, DIRECT, 0bfd66d529a55807
 
 # InMobi (AdMob bidding) - from InMobi publisher dashboard 2026-11-01
 inmobi.com, 5390ce9d1ea940f1960ab84f2b77ec39, DIRECT, 83e75a7ae333ca9d
+
+# OpenX (AdMob bidding) - from OpenX onboarding email 2026-11-03
+openx.com, 647552631, DIRECT, 6a698e2ec38604c6
