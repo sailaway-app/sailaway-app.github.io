@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-<title id="title">Woodline 나무 퍼즐 보드</title><desc id="desc">8×8 격자 위에 나무 블록이 놓인 플레이 예시</desc>
+<title id="title">Woodline wooden puzzle board</title><desc id="desc">An example eight-by-eight puzzle board with wooden blocks</desc>
 <defs>
   <linearGradient id="frame" x2="0" y2="1"><stop stop-color="#bda06a"/><stop offset=".5" stop-color="#d1b57c"/><stop offset="1" stop-color="#a58a58"/></linearGradient>
   <linearGradient id="recess" x2="0" y2="1"><stop stop-color="#5e4b31"/><stop offset="1" stop-color="#6b5737"/></linearGradient>
